@@ -61,4 +61,5 @@ implementation "org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.0"
 ### 相关文档
 
 - [JIoT Android SDK 集成指南](https://docs.jiguang.cn/jiot/client/android_sdk_guide/)
-- [JIoT Android SDK接口文档](https://docs.jiguang.cn/jiot/client/android_sdk_api/)
+- [JIoT Android SDK 接口文档](https://docs.jiguang.cn/jiot/client/android_sdk_api/)
+
