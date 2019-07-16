@@ -1,0 +1,16 @@
+ext {
+    // false: 组件模式
+    // true ：集成模式
+    isModule = false
+    android = [
+            compileSdkVersion: 26,
+            minSdkVersion    : 14,
+            targetSdkVersion : 26,
+            versionCode      : 1,
+            versionName      : "1.0.2"
+    ]
+    mqttAndroidSdkVersion = '1.1.0'
+    appId = ["jiot-core"  : "cn.jiguang.iot"]
+}
+
+
